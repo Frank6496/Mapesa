@@ -1,5 +1,2 @@
-# Mapesa
-
-This is a Webapp allows you : 
-- To Transfer money within the system from your account to others customer registered to the app. 
-- To check your account balance and view your transactions.
+# This is a webapp called TumaPesa App
+The new Webapp allows you to  Transfer money within the systems to others customer registered to the app. You can also check your account balance and view your transaction.

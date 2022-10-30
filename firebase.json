@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "site": "mapesa",
-    "public": "public",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",

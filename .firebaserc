@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "mapesa",
-    "production": "mapesa-3b9d1"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "pesa"
+  }
 }

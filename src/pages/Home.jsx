@@ -13,8 +13,8 @@ function Home() {
             <div className="hero-content flex-col lg:flex-row">
               <img src={slider4} className="max-w-sm rounded-lg shadow-2xl" alt='no pic' />
               <div>
-                <h1 className="text-5xl font-bold">Welcome to Mapesa App</h1>
-                <p className="py-6">Mapesa is a platform where thousands of users transfer funds with no limation...</p>
+                <h1 className="text-5xl font-bold">Welcome to Pesa App</h1>
+                <p className="py-6">Pesa is a platform where thousands of users transfer funds with no limation...</p>
                 <Link className="btn btn-outline btn-warning" to="/register">Register To Get Started</Link>
               </div>
             </div>
@@ -45,18 +45,13 @@ function Home() {
             <a href="#3" className="btn btn-circle text-3xl">👉</a>
           </div>
         </div>
-
         <div id="3" className="carousel-item relative w-full">
           <div className="hero min-h-screen bg-base-200 sm:justify-center">
             <div className="hero-content flex-col lg:flex-row">
               <img src={frank} className="sm:max-w-lg  rounded-lg shadow-2xl" alt='no pic' />
               <div className="py-8 text-xl">
                 <h1 className="md:text-5xl font-bold sm:text-xl sm:pl-6 ">Hear from Francis Njoroge</h1>
-                <p className="py-6 text-xl">‶ I joined this community on June 2022, after watching their advert on 
-                    youtube.This has been my best platform to send and transfer funds to another client. Upon 
-                    registering i was able to credit my account and transfer any amount of funds to any of my 
-                    clients ie.<span className='badge text-lg text-yellow-500 font-bold mx-1 py-2'>$5,000 </span>.″
-                  </p>
+                <p className="py-6 text-xl">‶ I joined this community, on June 2022 after watching their advert on youtube.This has been my best platform to send and transfer funds to another client. Upon registering i was able to credit my account and transfer any amount of funds to any of my clients ie.<span className='badge text-lg text-yellow-500 font-bold mx-1 py-2'>$5,000 </span>.″</p>
                 <Link className="btn btn-success btn-outline" to="/register">Register To Get Started</Link>
               </div>
             </div>
