@@ -26,5 +26,6 @@ You can also check your account balance and view your transaction.
 npm install firebase
  
 2. Before deployment run the below command to start the application locally
+
 npm start
  
