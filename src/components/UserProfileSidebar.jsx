@@ -19,8 +19,8 @@ function UserProfileSidebar({ userData, userDataId }) {
         <div className='sm:hidden md:block'>
             <ul className="menu bg-base-300  items-start justify-start text-1xl mt-20px h-full ">
                 <li className='w-full'><Link to={`/profile/${user?.email}`}><FaUser /> Profile</Link></li>
-                <li><label htmlFor="my-modal-3" className="btn modal-button"><FaMoneyCheckAlt />Transfer My Funds</label></li>
-                <li><label htmlFor="my-modal-2" className="btn modal-button"><FaMoneyCheckAlt />Credit My Account</label></li>
+                <li><label htmlFor="my-modal-3" className="btn modal-button"><FaMoneyCheckAlt />Transfer Funds</label></li>
+                <li><label htmlFor="my-modal-2" className="btn modal-button"><FaMoneyCheckAlt />Deposit Funds</label></li>
                 <li><Link to={`/profile/update/${user?.email}`}><FaCog />Edit Profile</Link></li>
             </ul>
 
